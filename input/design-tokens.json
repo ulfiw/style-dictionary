@@ -18,7 +18,7 @@
           "type": "number"
         },
         "color": {
-          "value": "rgba(9, 142, 249, 1)",
+          "value": "rgba(14, 249, 9, 1)",
           "type": "color"
         }
       },
